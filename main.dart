@@ -1,6 +1,6 @@
 // 
 import 'dart:io';
-// import 'package:intl/intl.dart';
+import 'package:intl/intl.dart';
 
 // String manipulation
 String capitalizeEachWord(String fullName) {
